@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(179, 220, 254);
+}
+
+h3{
+    background-color:rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(50, 56, 130);
+    border-radius: 5px;
+    border-style: solid;
+    border-color: white;
+    font-size: x-large;
+}
+
+p{
+    color: rgb(18, 2, 90);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.name_of_members{
+    color: rgb(56, 83, 192);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(255, 255, 255);
+}
+
+#camera{
+    border-radius: 10px;
+    border-color:rgb(255, 255, 255);
+    border-style: solid;
+    width: 450px;
+    height: 300px;
+}
+
+#result{
+    border-radius: 10px;
+    border-color: white;
+    border-style: solid;
+    width: 450px;
+    height: 300px;
+}
+
+label{
+    color: rgb(18, 2, 90);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+button{
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+}
